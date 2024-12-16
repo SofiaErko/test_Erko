@@ -20,3 +20,6 @@
   А это математическая формула: $\bar{x}=\frac{\sum_{i=1}^n x_i}{n}$
 
   [Это сайт нашего университета](https://mguu.ru/)
+
+  ![image] https://i.pinimg.com/236x/93/ed/3a/93ed3af6411e1e8b997038c74c287a8a.jpg
+  
